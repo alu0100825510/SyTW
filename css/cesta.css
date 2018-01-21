@@ -1,0 +1,29 @@
+.cesta{
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+    background-color: white !important;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.cesta_inside{
+  padding-left: 5px;
+}
+
+.articulo_inside{
+    height: 150px;
+    max-height: 150px;
+}
+
+.flotante{
+    float: left;
+    height: 60%;
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+.imagen_cesta{
+  height: 150px;
+
+}

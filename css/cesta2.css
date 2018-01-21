@@ -1,0 +1,97 @@
+.cesta{
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+    background-color: white !important;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.cesta_inside{
+  padding-left: 5px;
+}
+
+.articulo_inside{
+    height: 150px;
+    max-height: 150px;
+}
+
+.flotante{
+    float: left;
+    height: 60%;
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+.imagen_cesta{
+  height: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.credit-card-box .panel-title {
+    display: inline;
+    font-weight: bold;
+}
+.credit-card-box .form-control.error {
+    border-color: red;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(255,0,0,0.6);
+}
+.credit-card-box label.error {
+  font-weight: bold;
+  color: red;
+  padding: 2px 8px;
+  margin-top: 2px;
+}
+.credit-card-box .payment-errors {
+  font-weight: bold;
+  color: red;
+  padding: 2px 8px;
+  margin-top: 2px;
+}
+.credit-card-box label {
+    display: block;
+}
+/* The old "center div vertically" hack */
+.credit-card-box .display-table {
+    display: table;
+}
+.credit-card-box .display-tr {
+    display: table-row;
+}
+.credit-card-box .display-td {
+    display: table-cell;
+    vertical-align: middle;
+    width: 50%;
+}
+/* Just looks nicer */
+.credit-card-box .panel-heading img {
+    min-width: 180px;
+}
